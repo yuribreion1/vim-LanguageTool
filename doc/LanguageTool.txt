@@ -103,7 +103,7 @@ Recent versions of LanguageTool require Java-8.
 Download the latest stable stand-alone version of LanguageTool
 (file LanguageTool-*.zip) from http://www.languagetool.org/download/ >
 
-  $ wget https://languagetool.org/download/LanguageTool-5.2.zip
+  $ wget https://languagetool.org/download/LanguageTool-stable.zip
   $ unzip LanguageTool-5.2.zip
 
 This should extract the file LanguageTool-5.2/languagetool-commandline.jar
